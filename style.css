@@ -11,6 +11,11 @@ body {
     margin: 0;
 }
 
+.fuyinbao {
+    margin-top: 0;
+    text-align: center;
+}
+
 .tabs {
     display: flex;
     justify-content: space-around;
